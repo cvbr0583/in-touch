@@ -2661,7 +2661,7 @@
 /* Header */
 
 	body {
-		padding-top: 6em;
+		padding-top: 0em;
 	}
 
 	#header {
@@ -2674,7 +2674,7 @@
 		height: 6em;
 		left: 0;
 		line-height: 6em;
-		position: fixed;
+		/* position: fixed; */
 		top: 0;
 		width: 100%;
 		z-index: 10001;
@@ -2747,7 +2747,7 @@
 	@media screen and (max-width: 980px) {
 
 		body {
-			padding-top: 44px;
+			padding-top: 0px;
 		}
 
 		#header {
